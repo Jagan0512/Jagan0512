@@ -127,16 +127,34 @@
 
 <!-- EXPERIENCE SECTION -->
 <h2><img src="https://img.icons8.com/color/30/000000/briefcase.png" width="24" align="center"/> EXPERIENCE</h2>
-<table>
+<table width="100%">
   <tr>
-    <td width="20%" valign="top">
-      <b>2025 — Present</b>
+    <td width="25%" valign="top">
+      <b>Jun 2026 — Sep 2026</b>
     </td>
-    <td width="80%" valign="top">
+    <td width="75%" valign="top">
       <h3>Mintbook</h3>
-      <b>AI / Web Development Intern</b>
-      <p>Working on practical development tasks and contributing to real-world digital products.</p>
-      <p>My work involves understanding requirements, developing features, working with web technologies, improving interfaces, and exploring AI-based solutions.</p>
+      <b>AI & Web Development Intern (Onsite)</b>
+      <ul style="margin-top: 10px;">
+        <li>Worked on AI development tasks involving LLMs and AI-powered applications.</li>
+        <li>Developed and optimized 3D characters and avatars for interactive applications.</li>
+        <li>Worked with AI, 3D modeling, rigging, facial expressions, and avatar integration.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <b><br>Jan 2025 — Apr 2025</b>
+    </td>
+    <td width="75%" valign="top">
+      <br>
+      <h3>ILife Technology</h3>
+      <b>UX/UI Designer Intern (Onsite)</b>
+      <ul style="margin-top: 10px;">
+        <li>Designed and improved responsive web and mobile interfaces.</li>
+        <li>Created wireframes, prototypes, and high-fidelity designs.</li>
+        <li>Collaborated with developers to ensure smooth handoff and usability.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -217,4 +235,3 @@
 <div align="center">
   <p><small>Designed & built by Jagan</small></p>
 </div>
-
