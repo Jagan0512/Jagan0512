@@ -108,10 +108,10 @@ I enjoy working across the full development process — from understanding a pro
 
 <br>
 
-##GITHUB ACTIVITY
+## <img src="https://img.icons8.com/color/30/000000/bar-chart.png" width="24" align="center"/> GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagan0512&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1f2937&icon_color=eab308&text_color=4b5563" alt="Jagan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagan0512&show_icons=true&hide_border=true&title_color=1f2937&icon_color=eab308&text_color=4b5563&v=1" alt="Jagan's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagan0512&hide_border=true&background=ffffff&ring=eab308&fire=eab308&currStreakNum=1f2937&sideNums=4b5563&sideLabels=6b7280&dates=6b7280" alt="Jagan's GitHub Streak" />
 </div>
