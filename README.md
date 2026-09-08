@@ -20,36 +20,26 @@
 
 <br><br>
 
-<!-- ABOUT ME SECTION -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2><img src="https://img.icons8.com/color/30/000000/user-male-circle--v1.png" width="24" align="center"/> ABOUT ME</h2>
-      <p>I'm <b>Jagan</b>, an AI and Web Developer focused on building practical digital products.</p>
-      <p>I enjoy working across the full development process — from understanding a problem and designing the interface to developing the application and integrating AI capabilities.</p>
-      <p>Currently working as an <b>AI / Web Development Intern at Mintbook</b>, contributing to real-world digital products and improving my development skills through hands-on work.</p>
-    </td>
-    <td width="40%" valign="top">
-      <br>
-      <div align="center">
-        <h4>WHAT I FOCUS ON</h4>
-      </div>
-      <ul>
-        <li>🤖 AI & LLM Applications</li>
-        <li>🧠 RAG & Knowledge Systems</li>
-        <li>💻 Full-Stack Development</li>
-        <li>🎨 UI/UX Design</li>
-        <li>🔌 API Development</li>
-        <li>🧊 3D AI Avatars</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## <img src="https://img.icons8.com/color/30/000000/user-male-circle--v1.png" width="24" align="center"/> ABOUT ME
+
+I'm **Jagan**, an AI and Web Developer focused on building practical digital products.
+
+I enjoy working across the full development process — from understanding a problem and designing the interface to developing the application and integrating AI capabilities.
+
+**Currently working as an AI / Web Development Intern at Mintbook**, contributing to real-world digital products and improving my development skills through hands-on work.
+
+### 🎯 WHAT I FOCUS ON
+- 🤖 **AI & LLM Applications**
+- 🧠 **RAG & Knowledge Systems**
+- 💻 **Full-Stack Development**
+- 🎨 **UI/UX Design**
+- 🔌 **API Development**
+- 🧊 **3D AI Avatars**
 
 <br>
 
-<!-- TECH STACK SECTION -->
-<h2><img src="https://img.icons8.com/color/30/000000/code.png" width="24" align="center"/> TECH STACK</h2>
+## <img src="https://img.icons8.com/color/30/000000/code.png" width="24" align="center"/> TECH STACK
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,mysql,mongodb,git,github,blender,threejs&perline=11&theme=light" alt="Tech Stack" />
@@ -58,111 +48,68 @@
 
 <br>
 
-<!-- FEATURED PROJECTS SECTION -->
-<h2><img src="https://img.icons8.com/color/30/000000/project.png" width="24" align="center"/> FEATURED PROJECTS</h2>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✨ <a href="https://jagandev.me">Personal Portfolio & Jagan AI</a></h3>
-      <p>Responsive personal portfolio featuring an embedded <b>Jagan AI assistant</b> trained specifically to answer questions about my background and skills.</p>
-      <p><b>Tech:</b> HTML · CSS · JS · PHP · MySQL · AI/LLM</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://jagandev.me/glowist">Glowist AI Beauty E-Commerce</a></h3>
-      <p>Beauty e-commerce platform featuring <b>AI product recommendations</b> and a camera-based <b>AR virtual makeup</b> try-on experience.</p>
-      <p><b>Tech:</b> HTML · CSS · JS · PHP · AI/ML · AR</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://jagandev.me/Resturant/?table=1">QR Restaurant Menu & Billing</a></h3>
-      <p>Web-based restaurant management system combining a QR digital menu, live customer ordering, and an administrative billing dashboard.</p>
-      <p><b>Tech:</b> HTML · CSS · JS · PHP · MySQL</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗳️ <a href="https://jagandev.me/voterid_app">Online Voting System</a></h3>
-      <p>Digital voting platform featuring <b>real OTP verification</b>, voter authentication, secure vote casting, and result management.</p>
-      <p><b>Tech:</b> HTML · CSS · JS · PHP · MySQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👗 <a href="https://jagandev.me/E-commerce">Outfits - Fashion E-Commerce</a></h3>
-      <p>Live e-commerce platform for clothing featuring real-time <b>Razorpay integration</b> and a full admin dashboard for product management.</p>
-      <p><b>Tech:</b> React · Node.js · MongoDB · Razorpay</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://jagan0512.streamlit.app/">HealthSync AI/ML</a></h3>
-      <p>Healthcare application using supervised machine learning to analyze user symptoms and BMI to provide early indications of health conditions.</p>
-      <p><b>Tech:</b> Python · Machine Learning · Streamlit</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://jagandev.me">Sara — AI Avatar</a></h3>
-      <p>A 3D AI avatar experience designed for interactive communication with facial expressions and VRM-based web integration.</p>
-      <p><b>Tech:</b> Blender · VRM · Three.js</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://jagandev.me">Personal AI / RAG System</a></h3>
-      <p>An offline AI question-answering system designed to retrieve relevant knowledge and generate grounded responses.</p>
-      <p><b>Tech:</b> Python · FastAPI · FAISS · LLM</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✈️ <a href="https://www.figma.com/design/cVPk5t8PGxVJcYsxWTfLGp/official-web">Flight Booking UI/UX</a></h3>
-      <p>Modern UI/UX design for a Flight Booking Website with a seamless search interface, user flow, and interactive prototype.</p>
-      <p><b>Tech:</b> Figma · UI/UX Design</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://www.figma.com/design/xmJHCymyKN4JBYGvwJY4B4/Coffee-shop-delivery-app">Coffee Delivery UI/UX</a></h3>
-      <p>UI/UX design for a Coffee Delivery app focusing on clean product presentation, cart workflow, and an engaging interface.</p>
-      <p><b>Tech:</b> Figma · UI/UX Design</p>
-    </td>
-  </tr>
-</table>
+## <img src="https://img.icons8.com/color/30/000000/project.png" width="24" align="center"/> FEATURED PROJECTS
+
+> ### ✨ [Personal Portfolio & Jagan AI](https://jagandev.me)
+> Responsive personal portfolio featuring an embedded **Jagan AI assistant** trained specifically to answer questions about my background and skills.
+> <br>**Tech:** HTML · CSS · JS · PHP · MySQL · AI/LLM
+
+> ### 🛍️ [Glowist AI Beauty E-Commerce](https://jagandev.me/glowist)
+> Beauty e-commerce platform featuring **AI product recommendations** and a camera-based **AR virtual makeup** try-on experience.
+> <br>**Tech:** HTML · CSS · JS · PHP · AI/ML · AR
+
+> ### 🍽️ [QR Restaurant Menu & Billing](https://jagandev.me/Resturant/?table=1)
+> Web-based restaurant management system combining a QR digital menu, live customer ordering, and an administrative billing dashboard.
+> <br>**Tech:** HTML · CSS · JS · PHP · MySQL
+
+> ### 🗳️ [Online Voting System](https://jagandev.me/voterid_app)
+> Digital voting platform featuring **real OTP verification**, voter authentication, secure vote casting, and result management.
+> <br>**Tech:** HTML · CSS · JS · PHP · MySQL
+
+> ### 👗 [Outfits - Fashion E-Commerce](https://jagandev.me/E-commerce)
+> Live e-commerce platform for clothing featuring real-time **Razorpay integration** and a full admin dashboard for product management.
+> <br>**Tech:** React · Node.js · MongoDB · Razorpay
+
+> ### 🏥 [HealthSync AI/ML](https://jagan0512.streamlit.app/)
+> Healthcare application using supervised machine learning to analyze user symptoms and BMI to provide early indications of health conditions.
+> <br>**Tech:** Python · Machine Learning · Streamlit
+
+> ### 🤖 [Sara — AI Avatar](https://jagandev.me)
+> A 3D AI avatar experience designed for interactive communication with facial expressions and VRM-based web integration.
+> <br>**Tech:** Blender · VRM · Three.js
+
+> ### 🧠 [Personal AI / RAG System](https://jagandev.me)
+> An offline AI question-answering system designed to retrieve relevant knowledge and generate grounded responses.
+> <br>**Tech:** Python · FastAPI · FAISS · LLM
+
+> ### ✈️ [Flight Booking UI/UX](https://www.figma.com/design/cVPk5t8PGxVJcYsxWTfLGp/official-web)
+> Modern UI/UX design for a Flight Booking Website with a seamless search interface, user flow, and interactive prototype.
+> <br>**Tech:** Figma · UI/UX Design
+
+> ### ☕ [Coffee Delivery UI/UX](https://www.figma.com/design/xmJHCymyKN4JBYGvwJY4B4/Coffee-shop-delivery-app)
+> UI/UX design for a Coffee Delivery app focusing on clean product presentation, cart workflow, and an engaging interface.
+> <br>**Tech:** Figma · UI/UX Design
 
 <br>
 
-<!-- EXPERIENCE SECTION -->
-<h2><img src="https://img.icons8.com/color/30/000000/briefcase.png" width="24" align="center"/> EXPERIENCE</h2>
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <b>Jun 2026 — Sep 2026</b>
-    </td>
-    <td width="75%" valign="top">
-      <h3>Mintbook</h3>
-      <b>AI & Web Development Intern (Onsite)</b>
-      <ul style="margin-top: 10px;">
-        <li>Worked on AI development tasks involving LLMs and AI-powered applications.</li>
-        <li>Developed and optimized 3D characters and avatars for interactive applications.</li>
-        <li>Worked with AI, 3D modeling, rigging, facial expressions, and avatar integration.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top">
-      <b><br>Jan 2025 — Apr 2025</b>
-    </td>
-    <td width="75%" valign="top">
-      <br>
-      <h3>ILife Technology</h3>
-      <b>UX/UI Designer Intern (Onsite)</b>
-      <ul style="margin-top: 10px;">
-        <li>Designed and improved responsive web and mobile interfaces.</li>
-        <li>Created wireframes, prototypes, and high-fidelity designs.</li>
-        <li>Collaborated with developers to ensure smooth handoff and usability.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## <img src="https://img.icons8.com/color/30/000000/briefcase.png" width="24" align="center"/> EXPERIENCE
+
+> ### Mintbook
+> **AI & Web Development Intern (Onsite)** | *Jun 2026 — Sep 2026*
+> - Worked on AI development tasks involving LLMs and AI-powered applications.
+> - Developed and optimized 3D characters and avatars for interactive applications.
+> - Worked with AI, 3D modeling, rigging, facial expressions, and avatar integration.
+
+> ### ILife Technology
+> **UX/UI Designer Intern (Onsite)** | *Jan 2025 — Apr 2025*
+> - Designed and improved responsive web and mobile interfaces.
+> - Created wireframes, prototypes, and high-fidelity designs.
+> - Collaborated with developers to ensure smooth handoff and usability.
 
 <br>
 
-<!-- GITHUB ACTIVITY SECTION -->
-<h2><img src="https://img.icons8.com/color/30/000000/bar-chart.png" width="24" align="center"/> GITHUB ACTIVITY</h2>
+## <img src="https://img.icons8.com/color/30/000000/bar-chart.png" width="24" align="center"/> GITHUB ACTIVITY
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jagan0512&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1f2937&icon_color=eab308&text_color=4b5563" alt="Jagan's GitHub Stats" />
   <br><br>
@@ -171,38 +118,14 @@
 
 <br><br>
 
-<!-- CURRENTLY EXPLORING SECTION -->
-<h2><img src="https://img.icons8.com/color/30/000000/rocket.png" width="24" align="center"/> CURRENTLY EXPLORING</h2>
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>🚀 AI Engineering</b><br>
-      <small>Building practical AI-powered applications.</small>
-    </td>
-    <td width="33%" valign="top">
-      <b>🧠 RAG & LLM Apps</b><br>
-      <small>Exploring retrieval and grounded generation.</small>
-    </td>
-    <td width="33%" valign="top">
-      <b>🧊 3D AI Avatars</b><br>
-      <small>Working with VRM, Blender and Three.js.</small>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b>💻 Full-Stack Dev</b><br>
-      <small>Building complete web applications.</small>
-    </td>
-    <td width="33%" valign="top">
-      <b>🎨 UI/UX Systems</b><br>
-      <small>Designing clean and usable interfaces.</small>
-    </td>
-    <td width="33%" valign="top">
-      <b>💡 Product Development</b><br>
-      <small>Turning ideas into real-world solutions.</small>
-    </td>
-  </tr>
-</table>
+## <img src="https://img.icons8.com/color/30/000000/rocket.png" width="24" align="center"/> CURRENTLY EXPLORING
+
+- 🚀 **AI Engineering:** Building practical AI-powered applications.
+- 🧠 **RAG & LLM Apps:** Exploring retrieval and grounded generation.
+- 🧊 **3D AI Avatars:** Working with VRM, Blender and Three.js.
+- 💻 **Full-Stack Dev:** Building complete web applications.
+- 🎨 **UI/UX Systems:** Designing clean and usable interfaces.
+- 💡 **Product Development:** Turning ideas into real-world solutions.
 
 <br><br>
 
@@ -215,8 +138,7 @@
 
 <br><br>
 
-<!-- CONTACT SECTION -->
-<h2><img src="https://img.icons8.com/color/30/000000/send-mass-email.png" width="24" align="center"/> LET'S CONNECT</h2>
+## <img src="https://img.icons8.com/color/30/000000/send-mass-email.png" width="24" align="center"/> LET'S CONNECT
 <p>Have an idea, project, or opportunity? Let's build something useful.</p>
 <p>
   <a href="https://github.com/Jagan0512">
