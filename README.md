@@ -108,7 +108,7 @@ I enjoy working across the full development process — from understanding a pro
 
 <br>
 
-## <img src="https://img.icons8.com/color/30/000000/bar-chart.png" width="24" align="center"/> GITHUB ACTIVITY
+##GITHUB ACTIVITY
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jagan0512&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1f2937&icon_color=eab308&text_color=4b5563" alt="Jagan's GitHub Stats" />
