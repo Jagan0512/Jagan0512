@@ -62,23 +62,63 @@
 <h2><img src="https://img.icons8.com/color/30/000000/project.png" width="24" align="center"/> FEATURED PROJECTS</h2>
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 Sara — AI Avatar</h3>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://jagandev.me">Personal Portfolio & Jagan AI</a></h3>
+      <p>Responsive personal portfolio featuring an embedded <b>Jagan AI assistant</b> trained specifically to answer questions about my background and skills.</p>
+      <p><b>Tech:</b> HTML · CSS · JS · PHP · MySQL · AI/LLM</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://jagandev.me/glowist">Glowist AI Beauty E-Commerce</a></h3>
+      <p>Beauty e-commerce platform featuring <b>AI product recommendations</b> and a camera-based <b>AR virtual makeup</b> try-on experience.</p>
+      <p><b>Tech:</b> HTML · CSS · JS · PHP · AI/ML · AR</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://jagandev.me/Resturant/?table=1">QR Restaurant Menu & Billing</a></h3>
+      <p>Web-based restaurant management system combining a QR digital menu, live customer ordering, and an administrative billing dashboard.</p>
+      <p><b>Tech:</b> HTML · CSS · JS · PHP · MySQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗳️ <a href="https://jagandev.me/voterid_app">Online Voting System</a></h3>
+      <p>Digital voting platform featuring <b>real OTP verification</b>, voter authentication, secure vote casting, and result management.</p>
+      <p><b>Tech:</b> HTML · CSS · JS · PHP · MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👗 <a href="https://jagandev.me/E-commerce">Outfits - Fashion E-Commerce</a></h3>
+      <p>Live e-commerce platform for clothing featuring real-time <b>Razorpay integration</b> and a full admin dashboard for product management.</p>
+      <p><b>Tech:</b> React · Node.js · MongoDB · Razorpay</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://jagan0512.streamlit.app/">HealthSync AI/ML</a></h3>
+      <p>Healthcare application using supervised machine learning to analyze user symptoms and BMI to provide early indications of health conditions.</p>
+      <p><b>Tech:</b> Python · Machine Learning · Streamlit</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://jagandev.me">Sara — AI Avatar</a></h3>
       <p>A 3D AI avatar experience designed for interactive communication with facial expressions and VRM-based web integration.</p>
       <p><b>Tech:</b> Blender · VRM · Three.js</p>
-      <a href="#"><b>View Project &rarr;</b></a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Personal AI / RAG System</h3>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://jagandev.me">Personal AI / RAG System</a></h3>
       <p>An offline AI question-answering system designed to retrieve relevant knowledge and generate grounded responses.</p>
       <p><b>Tech:</b> Python · FastAPI · FAISS · LLM</p>
-      <a href="#"><b>View Project &rarr;</b></a>
     </td>
-    <td width="33%" valign="top">
-      <h3>💻 Web Applications</h3>
-      <p>Responsive web applications focused on usability, clean interfaces, APIs, and practical real-world workflows.</p>
-      <p><b>Tech:</b> React · Node.js · MySQL</p>
-      <a href="#"><b>View Projects &rarr;</b></a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://www.figma.com/design/cVPk5t8PGxVJcYsxWTfLGp/official-web">Flight Booking UI/UX</a></h3>
+      <p>Modern UI/UX design for a Flight Booking Website with a seamless search interface, user flow, and interactive prototype.</p>
+      <p><b>Tech:</b> Figma · UI/UX Design</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://www.figma.com/design/xmJHCymyKN4JBYGvwJY4B4/Coffee-shop-delivery-app">Coffee Delivery UI/UX</a></h3>
+      <p>UI/UX design for a Coffee Delivery app focusing on clean product presentation, cart workflow, and an engaging interface.</p>
+      <p><b>Tech:</b> Figma · UI/UX Design</p>
     </td>
   </tr>
 </table>
@@ -177,3 +217,4 @@
 <div align="center">
   <p><small>Designed & built by Jagan</small></p>
 </div>
+
